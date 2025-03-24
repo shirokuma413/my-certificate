@@ -1,5 +1,13 @@
-# my-certificates
+# my-certificates outline
 資格取得の管理用
+
+# my certificate list
+- 基本情報処理技術者
+- 応用情報処理技術者
+- AWS ソリューションアーキテクトアソシエイト
+- AWS SysOps管理者 アソシエイト
+- Databricks Data Engineer Associate
+…
 
 # Databricks certificate
 ## Databricks - Data Engineer Associate
